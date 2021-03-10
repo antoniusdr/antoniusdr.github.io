@@ -53,6 +53,7 @@ background-image: url("../images/DSCF4626.jpg");
 filter: blur(0px);
 -webkit-filter: blur(0px);
 height: 20%;
+background-repeat: no-repeat;
 
 /* Center and scale the image nicely */
 background-position: center;
