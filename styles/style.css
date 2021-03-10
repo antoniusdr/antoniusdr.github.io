@@ -49,7 +49,7 @@ box-sizing: border-box;
 }
 
 .bg-image {
-background-image: url("../test-site/images/DSCF4626.jpg");
+background-image: url("../images/DSCF4626.jpg");
 filter: blur(0px);
 -webkit-filter: blur(0px);
 height: 20%;
